@@ -1,7 +1,7 @@
 # Stellar Secure Voting DApp
 
 **Stellar Secure Voting DApp** — Blockchain-Based Tamper-Proof Decentralized Voting System
-## CONTRACT ID: CCD5ZS7PHQ47UVPJEFYOVYGXXMTTMYNLBCK2WCK4YGWSVIN7FLJP34GI
+#### CONTRACT ID: CCD5ZS7PHQ47UVPJEFYOVYGXXMTTMYNLBCK2WCK4YGWSVIN7FLJP34GI
 ## Project Description
 
 Stellar Secure Voting DApp is a decentralized smart contract solution built on the Stellar blockchain using the Soroban SDK. It provides a secure, transparent, and tamper-proof platform for conducting elections and polls directly on the blockchain. The contract ensures that every vote is authentic, immutable, and verifiable — eliminating the risks of fraud, double-voting, and unauthorized data manipulation.
